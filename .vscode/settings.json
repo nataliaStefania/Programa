@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./servidor_",
+        "./servidor_"
+    ]
+}
